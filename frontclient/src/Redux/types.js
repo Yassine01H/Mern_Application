@@ -1,0 +1,7 @@
+// action type
+export const GET_VOITURES = "GET_VOITURES";
+export const DELETE_VOITURE = "DELETE_VOITURE";
+export const ADD_VOITURE = "ADD_VOITURE";
+export const GET_SINGLE_VOITURE = "GET_SINGLE_VOITURE";
+export const UPDATE_VOITURE = "UPDATE_VOITURE";
+export const GET_MARQUEVOITURES = "GET_MARQUEVOITURES";
